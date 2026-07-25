@@ -1,4 +1,4 @@
-```md
+md
 <div align="center">
 
 ![](https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-7C3AED?style=for-the-badge)
@@ -17,4 +17,3 @@
 ![](https://img.shields.io/badge/Linux-Learner-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-```
