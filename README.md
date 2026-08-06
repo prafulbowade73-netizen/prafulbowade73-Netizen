@@ -27,7 +27,7 @@
 </p>
 
 ### Data Analysis
-
+- python
 - NumPy
 - Pandas
 - Matplotlib
