@@ -14,7 +14,7 @@
 - 🐍 Python | SQL | NumPy | Pandas
 - 📊 Power BI | Excel | Machine Learning
 - 🌱 Currently learning Scikit-learn & Deep Learning
-- 🎯 Goal: Become a Data Scientist
+
 
 ---
 
